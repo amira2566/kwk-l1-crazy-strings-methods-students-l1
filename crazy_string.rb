@@ -4,4 +4,3 @@ def crazy_strings
 puts "hello, bob"
 puts "How are you"
 end
-puts crazy_strings
