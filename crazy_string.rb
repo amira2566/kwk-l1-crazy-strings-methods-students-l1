@@ -2,6 +2,6 @@
 
 def crazy_strings
   puts "Hello".reverse.upcase
-  puts "Friends".swapcase('s' 'z')
+  puts "Friends".swapcase("")
 end
 crazy_strings
